@@ -1,6 +1,6 @@
 import { IconButton } from "blocksin-system"
 import { PlusIcon, PenIcon, BoxIcon } from "sebikostudio-icons"
-import "./app.css"
+import "./App.css"
 
 
 
