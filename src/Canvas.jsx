@@ -3,7 +3,6 @@ import './canvas.css'
 import { Canvas } from "fabric"
 
 import Settings from './Settings'
-import CanvasSettings from './canvasSettings'
 import { handleObjectMoving, clearGuidelines } from './SnappingHelper'
 import Toolbar from './Toolbar'
 import { canvasDataJsonStore } from "./EmailStore";
